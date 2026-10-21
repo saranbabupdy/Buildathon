@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+networkx
+pydeck
+scikit-learn
+pillow
+joblib
+# Optional: only needed for CNN transfer learning (python train_drone_model.py --cnn)
+# torch
+# torchvision

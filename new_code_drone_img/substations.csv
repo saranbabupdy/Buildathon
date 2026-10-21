@@ -1,0 +1,5 @@
+substation_id,status,available_capacity_mw,lat,lon
+SUB-Alpha,Active,150,34.03,-118.28
+SUB-Beta,Active,120,34.15,-118.35
+SUB-Gamma,Active,200,34.22,-118.02
+SUB-Delta,Active,180,34.3,-118.15
